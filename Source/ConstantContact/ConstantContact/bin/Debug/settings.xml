@@ -1,0 +1,11 @@
+<settings>
+  <nexmo>
+    <api></api>
+    <secret-key></secret-key>
+    <from-number></from-number>
+  </nexmo>
+  <constantcontact>
+    <api></api>
+    <access-token></access-token>
+  </constantcontact>
+</settings>

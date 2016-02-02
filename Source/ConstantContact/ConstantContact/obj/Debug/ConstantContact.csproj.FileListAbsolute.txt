@@ -1,0 +1,29 @@
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.exe.config
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.exe
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.pdb
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.csprojResolveAssemblyReference.cache
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.Properties.Resources.resources
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.Settings.resources
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.csproj.GenerateResource.Cache
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.exe
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.pdb
+C:\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.ConstantContactCampaign.resources
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.exe.config
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.exe
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.pdb
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.exe
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.pdb
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.csprojResolveAssemblyReference.cache
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.ConstantContactCampaign.resources
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.Properties.Resources.resources
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.Settings.resources
+\\tsclient\C\Swati Gupta\Project\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.csproj.GenerateResource.Cache
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.exe.config
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.exe
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\bin\Debug\ConstantContact.pdb
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.ConstantContactCampaign.resources
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.Properties.Resources.resources
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.Settings.resources
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.csproj.GenerateResource.Cache
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.exe
+C:\ASPL_TFS\1508-NEXM-APPSDEV\Constant Contact\Source\ConstantContact\ConstantContact\obj\Debug\ConstantContact.pdb
