@@ -2,10 +2,6 @@
 
 <img src="https://github.com/AdvaiyaLabs/Constant-Contact-with-Nexmo-SMS/blob/master/Docs/image1.png">
 
-*“An app to send SMS to Constant Contact Campaign contact list”*
-
-<img src="https://github.com/AdvaiyaLabs/Constant-Contact-with-Nexmo-SMS/blob/master/Docs/image2.png">
-
 ##Introduction 
 
 **Constant Contact with Nexmo SMS** allows users to send SMS to all the subscribers available in the Constant Contact email campaign contact list. It helps users to send SMS not only to campaigns in draft status but also to campaigns in sent and scheduled status.
@@ -30,10 +26,9 @@ Send SMS to all the contacts available in the Constant Contact campaign having d
 
 -   Enable and disable sent, draft, scheduled campaigns.
 
-Steps to install Constant Contact with Nexmo SMS 
-=================================================
+##Steps to install Constant Contact with Nexmo SMS 
 
-1.  Visit the target Git repository using the [URL ]()
+1.  Visit the target Git repository using the [URL ](https://github.com/AdvaiyaLabs/Constant-Contact-with-Nexmo-SMS/tree/master/Package)
 
 2.  Click on **Raw** as shown in the below image; app’s .zip file will get downloaded:<img src="https://github.com/AdvaiyaLabs/Constant-Contact-with-Nexmo-SMS/blob/master/Docs/image3.png">
 
