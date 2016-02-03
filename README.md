@@ -77,11 +77,11 @@ Send SMS to all the contacts available in the Constant Contact campaign having d
 
 8.  The form has the following fields:
 
--   **Select recipient Field**: Displays all **Phone** type field like Home Phone, Work Phone, Mobile, Cell Phone Number. User needs to specify one phone field on which he want to send the SMS.
+	-   **Select recipient Field**: Displays all **Phone** type field like Home Phone, Work Phone, Mobile, Cell Phone Number. User needs to specify one phone field on which he want to send the SMS.
 
--   **Message**: User can type a customized message with replaceable parameters. For example - if the user wants to send a message Hello &lt;&lt;name&gt;&gt;, then the user can type “Hello” and select **CompanyName** from the Select tag list box. It will replace **CompanyName** with the company name of the contact from the **Constant Contact** list.
+	-   **Message**: User can type a customized message with replaceable parameters. For example - if the user wants to send a message Hello &lt;&lt;name&gt;&gt;, then the user can type “Hello” and select **CompanyName** from the Select tag list box. It will replace **CompanyName** with the company name of the contact from the **Constant Contact** list.
 
--   **Select tag**: This list box displays all fields available in **Constant Contact** list.
+	-   **Select tag**: This list box displays all fields available in **Constant Contact** list.
 
 	<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Constant-Contact-with-Nexmo-SMS/master/Docs/image12.png" width=400>
 
