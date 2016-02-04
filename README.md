@@ -77,7 +77,7 @@ Send SMS to all the contacts available in the Constant Contact campaign having d
 
 8.  The form has the following fields:
 
-	-   **Select recipient Field**: Displays all **Phone** type field like Home Phone, Work Phone, Mobile, Cell Phone Number. User needs to specify one phone field on which he want to send the SMS.
+	-   **Select recipient field**: Displays all **Phone** type field like Home Phone, Work Phone, Mobile, Cell Phone Number. User needs to specify one phone field on which he wants to send the SMS.
 
 	-   **Message**: User can type a customized message with replaceable parameters. For example - if the user wants to send a message Hello &lt;&lt;name&gt;&gt;, then the user can type “Hello” and select **CompanyName** from the Select tag list box. It will replace **CompanyName** with the company name of the contact from the **Constant Contact** list.
 
@@ -115,7 +115,7 @@ Constant Contact API Keys and Access Token keys
 
 -   [**Log in**](https://constantcontact.mashery.com/login) for a Mashery account or [**Sign up**](https://constantcontact.mashery.com/member/register)** .**
 
--   For new users, confirmation email is sent to the registered email ID. API key will be assigned to your application.
+-   For new users, a confirmation email is sent to the registered email ID. An API key will be assigned to your application.
 
 -   After the constant contact application is registered, access token can be received from [here](https://constantcontact.mashery.com/io-docs).
 
